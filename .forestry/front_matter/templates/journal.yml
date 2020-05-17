@@ -37,5 +37,6 @@ fields:
   default: Nichlas W. Andersen
 pages:
 - journal/bathroom-white-noise-generator.md
+- journal/getting-started-with-mqtt.md
 - journal/hey-google-turn-the-water-off.md
 - journal/smart-laundry-alerts.md
